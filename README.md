@@ -181,7 +181,6 @@ SELECT avg(close) AS avg_price FROM sp500_data;
 ### SNS通知
 
 * メールで自動通知
-* タブレットでも受信可能
 
 ---
 
